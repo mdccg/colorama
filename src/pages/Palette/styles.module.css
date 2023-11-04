@@ -1,0 +1,25 @@
+#container {
+  height: 100vh;
+}
+
+.row {
+  height: calc(100vh / 6);
+  overflow-x: auto;
+  display: flex;
+}
+
+.square {
+  justify-content: center;
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+
+  box-sizing: border-box;
+  min-width: 128px;
+  padding: 8px;
+}
+
+.square > span {
+  text-transform: uppercase;
+  color: white;
+}

@@ -1,0 +1,31 @@
+#container {
+  min-height: 100vh;
+
+  justify-content: space-evenly;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+}
+
+#displayedColor {
+  font-size: 300%;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+#button {
+  cursor: pointer;
+  user-select: none;
+
+  border-radius: 4px;
+  border: 2px solid;
+  padding: 8px 12px;
+}
+
+#button > span {
+  font-weight: bold;
+}
+
+#container, #displayedColor, #button, #button > span {
+  transition: all .5s;
+}

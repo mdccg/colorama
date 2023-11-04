@@ -1,10 +1,11 @@
-# pwa-demo
+# colorama
 
 ## Sumário
 
-- [pwa-demo](#pwa-demo)
+- [colorama](#colorama)
   - [Sumário](#sumário)
   - [*To-do list*](#to-do-list)
+  - [Melhorias futuras](#melhorias-futuras)
   - [Motivação](#motivação)
   - [Pilha de tecnologia](#pilha-de-tecnologia)
   - [Como rodar](#como-rodar)
@@ -12,6 +13,10 @@
     - [Passo a passo](#passo-a-passo)
 
 ## *To-do list*
+
+- [X] Descobrir o que está errado na classe [HSL](./src/classes/HSL.ts)
+
+## Melhorias futuras
 
 - [ ] [`service-worker.ts:60`](./src/service-worker.ts?plain=1#L60) Modificar esta linha para que o cacheamento suporte outros formatos de arquivo
 - [ ] [`service-worker.ts:67`](./src/service-worker.ts?plain=1#L67) Modificar esta linha adicionando a propriedade `maxAgeSeconds` para fazer com que a memória cache seja limpa após um dia e diminuir o valor de `maxEntries` (lembrar o porquê)
