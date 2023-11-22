@@ -29,7 +29,7 @@ No contexto deste projeto, destacamos a estratégia "stale-while-revalidate" (st
 
 Este foi o quarto repositório de código apresentado no [Curso Superior de TSI do IFMS](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/graduacao/sistemas-para-internet/sistemas-para-internet) como requisito para obtenção da nota parcial das atividades da unidade curricular Linguagem de Programação IV.
 
-| [&larr; Repositório anterior](https://github.com/mdccg/ai-que-fome-showcase) | [Próximo repositório &rarr;](#) |
+| [&larr; Repositório anterior](https://github.com/mdccg/ai-que-fome-showcase) | [Próximo repositório &rarr;](https://github.com/mdccg/socket-demo) |
 |-|-|
 
 ## Pilha de tecnologia
